@@ -14,3 +14,4 @@
 - From posts on [Medium](https://medium.com/)
 - From posts on [J2Team](https://www.facebook.com/groups/j2team.community/?)
 - [https://github.com/airbnb](https://github.com/airbnb)
+- [Naming Things in Code](https://www.youtube.com/watch?v=-J3wNP6u5YU)
