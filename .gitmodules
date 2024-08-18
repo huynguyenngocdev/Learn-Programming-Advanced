@@ -1,0 +1,9 @@
+[submodule "JavaScript/JS_Style_Guide/javascript"]
+	path = JavaScript/JS_Style_Guide/javascript
+	url = https://github.com/airbnb/javascript
+[submodule "JavaScript/JavaScript/JS_Style_Guide"]
+	path = JavaScript/JavaScript/JS_Style_Guide
+	url = https://github.com/airbnb/javascript
+[submodule "Swift/Swift_Style_Guide"]
+	path = Swift/Swift_Style_Guide
+	url = https://github.com/airbnb/swift
