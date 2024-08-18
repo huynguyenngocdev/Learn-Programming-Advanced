@@ -7,3 +7,6 @@
 [submodule "Swift/Swift_Style_Guide"]
 	path = Swift/Swift_Style_Guide
 	url = https://github.com/airbnb/swift
+[submodule "JavaScript/JS_Style_Guide"]
+	path = JavaScript/JS_Style_Guide
+	url = https://github.com/airbnb/javascript
